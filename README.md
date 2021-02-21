@@ -1,6 +1,6 @@
 # XSS vulnerability in Automated Logic's WebCTRL product
-Exploit Title:  XSS in Automated Logic WebCTRL
-Google Dork: - 
+Exploit Title:  XSS in Automated Logic WebCTRL\n
+Google Dork: - \n
 Date: 2020-08-25
 Exploit Author: İsmail ERKEK 
 Vendor Homepage: https://www.automatedlogic.com/
